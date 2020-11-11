@@ -1,1 +1,1 @@
-# Dogs-vs-Cats
+# Machine Learning Projects
