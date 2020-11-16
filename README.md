@@ -1,5 +1,4 @@
 # Machine Learning Projects
-### Breast Cancer Dataset
 Steps in any Machine Learning classification problem
 
 * Exploring the dataset
@@ -7,7 +6,7 @@ Steps in any Machine Learning classification problem
 * Splitting the dataset into training and testing set
 * Building the model
 * Evaluating the model
-
+### Breast Cancer Dataset
 ### HR_Analytics
 ### ML - Supervised Regression - California House Prediction
 ### Online_shopping_Retail
